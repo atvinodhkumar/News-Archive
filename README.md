@@ -51,13 +51,16 @@ Every module comes with Python3 including **sqlite3**. Only the DB Browser for S
 ### Steps to view the database file using DB Browser
 
 1. Open the DB Browser and select "Open Database" tab.
-![Step 1](images/step1.png)
+
+<img src="images/step1.PNG">
 
 2. Find and select the database file to open it. 
-![Step 2](images/step2.png)
+
+<img src="images/step2.PNG">
 
 3. Select the "Browse Data" tab which is right below the "Open Database" tab.
-![Step 3](images/step3.png)
+
+<img src="images/step3.PNG">
 
 
 ## Running the script
